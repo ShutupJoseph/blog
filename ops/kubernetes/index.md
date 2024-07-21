@@ -1,6 +1,7 @@
 # K8s进阶训练营第4期
 
 - [52.KubeVela](52.KubeVela.md)
+- [51.Flux](51.Flux.md)
 - [50.ArgoRollouts](50.ArgoRollouts.md)
 - [49.ArgoCD](49.ArgoCD.md)
 - [48.JenkinsPipeline](48.JenkinsPipeline.md)
@@ -57,4 +58,4 @@
 - [3.Pod基础原理](3.Pod基础原理.md)
 - [2.部署Kubernetes集群](2.部署Kubernetes集群.md)
 - [1.容器运行时与K8s概览](1.容器运行时与K8s概览.md)
-- [51.Flux](51.Flux.md)
+
