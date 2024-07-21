@@ -8,7 +8,7 @@
 - [47.GitLab](47.GitLab.md)
 - [46.Jenkins](46.Jenkins.md)
 
-## [45.OpenTelemetry](45.OpenTelemetry/index.md)
+<summary>[45.OpenTelemetry](45.OpenTelemetry/index.md)</summary>
 
 - [45.1OpenTelemetry初体验](45.OpenTelemetry/45.1OpenTelemetry初体验.md)
 - [45.2OpenTelemetry Collector](45.OpenTelemetry/45.2OpenTelemetryCollector.md)
