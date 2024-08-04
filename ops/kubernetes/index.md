@@ -1,4 +1,4 @@
-# K8s进阶训练营第4期
+# K8s部分资料
 
 - [52.KubeVela](52.KubeVela.md)
 - [51.Flux](51.Flux.md)
