@@ -8,12 +8,11 @@
 - [47.GitLab](47.GitLab.md)
 - [46.Jenkins](46.Jenkins.md)
 
-- [45.OpenTelemetry](45.OpenTelemetry/index.md)
-
-- [45.1OpenTelemetry初体验](45.OpenTelemetry/45.1OpenTelemetry初体验.md)
-- [45.2OpenTelemetry Collector](45.OpenTelemetry/45.2OpenTelemetryCollector.md)
-- [45.3OpenTelemetry与Kubernetes结合使用](45.OpenTelemetry/45.3OpenTelemetry与Kubernetes结合使用.md)
 - [45.4OpenTelemetry Operator](45.OpenTelemetry/45.4OpenTelemetryOperator.md)
+- [45.3OpenTelemetry与Kubernetes结合使用](45.OpenTelemetry/45.3OpenTelemetry与Kubernetes结合使用.md)
+- [45.2OpenTelemetry Collector](45.OpenTelemetry/45.2OpenTelemetryCollector.md)
+- [45.1OpenTelemetry初体验](45.OpenTelemetry/45.1OpenTelemetry初体验.md)
+- [45.OpenTelemetry](45.OpenTelemetry/index.md)
 
 - [44.OpenObserve](44.OpenObserve.md)
 - [43.EFK](43.EFK.md)
