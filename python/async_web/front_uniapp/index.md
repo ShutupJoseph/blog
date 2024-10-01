@@ -1,4 +1,4 @@
-# 知了课堂-uniapp课件
+# uniapp课件
 
 - [第一节：uni-app入门](第一节：uni-app入门.md)
 - [第二节：配置](第二节：配置.md)
