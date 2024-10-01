@@ -5,5 +5,5 @@
 
 ##### 运维: https://github.com/160nothelp/blog/tree/main/ops
 ##### kubernetes: https://github.com/160nothelp/blog/blob/main/ops/kubernetes/index.md
-##### 杂项: https://github.com/160nothelp/blog/tree/main/other
+##### 杂项: [https://github.com/160nothelp/blog/tree/main/other](https://github.com/ShutupJoJo/blog/tree/main/other)
 ##### FastApi: [python/async_web/fastapi/index.md](https://github.com/ShutupJoJo/blog/blob/main/python/async_web/fastapi/index.md)
