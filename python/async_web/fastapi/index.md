@@ -1,4 +1,4 @@
-# 知了传课-FastAPI
+# FastAPI
 
 - [第一节：FastAPI介绍](第一节：FastAPI介绍.md)
 - [第二节：类型提示](第二节：类型提示.md)
